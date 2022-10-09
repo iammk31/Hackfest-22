@@ -36,6 +36,13 @@
       <br/>
       Mohit Kumar
       <a href="https://github.com/iammk31">Github</a>
+      </td>
+    <td align="center">
+       <img src="https://avatars.githubusercontent.com/u/102895022?v=4" width="150px" alt="HacktoberFest'22" />
+      <br/>
+      Pranit Kumar Singh
+      <a href="https://github.com/pranit9000">Github</a>
+      </td>
     <!-- Uncomment the below and add your code from the below. -->
     <!-- <td align="center">
        <img src="your_github_profile_pic_link" width="150px" alt="HacktoberFest'22" />
